@@ -17,7 +17,7 @@
     "build"
   ],
   "peerDependencies": {
-    "metrics-graphics": "^2.11.0",
+    "metrics-graphics-annotations": "git+https://github.com/jaffer-ali/metrics-graphics-annotations.git",
     "prop-types": "^15||^16",
     "react": "^15||^16",
     "react-dom": "^15||^16"
@@ -30,7 +30,6 @@
     "eslint-plugin-react": "^7.1.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
-    "metrics-graphics": "^2.13.0",
     "neutrino": "^8.0.11",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
