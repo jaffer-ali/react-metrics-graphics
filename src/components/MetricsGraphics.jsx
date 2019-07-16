@@ -1,11 +1,12 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import MG from 'metrics-graphics';
+import MG from 'metrics-graphics-annotations';
 import 'metrics-graphics/dist/metricsgraphics.css';
 
 const MG_ALLOWED_OPTIONS = [
   'aggregate_rollover',
   'animate_on_load',
+  'annotations',
   'area',
   'axes_not_compact',
   'bar_height',
